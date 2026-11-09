@@ -1,0 +1,10 @@
+.git
+.github
+docs/screenshots
+.env
+.env.*
+!.env.example
+vendor
+node_modules
+storage/logs/*
+*.zip

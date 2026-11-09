@@ -1,0 +1,16 @@
+/vendor
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/logs/*
+/.env
+/.phpunit.cache
+/.idea
+/.vscode
+.DS_Store
+Thumbs.db
